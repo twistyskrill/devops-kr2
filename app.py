@@ -1,3 +1,4 @@
+# KR2: Kobzev
 import os
 import socket
 
